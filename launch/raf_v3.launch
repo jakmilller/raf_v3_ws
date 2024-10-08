@@ -1,0 +1,3 @@
+<launch>
+    <node name="cam_detection" pkg="raf_v3" type="cam_detection.py" output="screen" />
+</launch>
